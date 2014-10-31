@@ -1,0 +1,4 @@
+BarcodeScanner
+==============
+
+Customizações no BarcodeScanner
